@@ -6,14 +6,14 @@
 
 .header p {
   position: relative;
-
+  float: center;
   top: 18px;
   left: 50px;
 }
 
 .ul.sidebyside {
     position: fixed;
-    float: right; 
+    float: right;
 }
 
 .footer {
