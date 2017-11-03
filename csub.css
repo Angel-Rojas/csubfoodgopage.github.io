@@ -1,8 +1,19 @@
-body {
+.body {
   background-image: url("https://i.pinimg.com/736x/00/a4/fe/00a4fe9a9b6ce81568dae07bcf3141d8.jpg");
   height: 200%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header p {
+  
 }
