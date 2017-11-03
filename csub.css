@@ -12,11 +12,8 @@
 }
 
 .ul.sidebyside {
-    list-style-type: none;
-    padding: 1;
-    float:left;
-    margin:0 5px;
-
+    position: fixed;
+    float right; 
 }
 
 .footer {
