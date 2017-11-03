@@ -13,7 +13,7 @@
 
 .ul.sidebyside {
     position: fixed;
-    float right; 
+    float: right; 
 }
 
 .footer {
