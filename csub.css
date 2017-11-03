@@ -1,6 +1,8 @@
 
-.section-1
-{
-	background: url(http://studios.com/wp-content/uploads/csub_science_iii_building_1-702x468.jpg);
+.section-4{
+	background: url(http://www.csub.edu/mba/cropped%20csu_bakersfield_03.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-/*backgroud stufsf*/
