@@ -13,3 +13,9 @@
   height: 100px;
   background: #555;
 }
+
+.header p {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
