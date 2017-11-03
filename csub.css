@@ -15,6 +15,7 @@
 
 .header p {
   position: relative;
+  float: center;
   top: 18px;
   left: 100px;
 }
