@@ -9,35 +9,10 @@
 }
 
 .section-1{
-	background: url(http://www.csub.edu/mba/cropped%20csu_bakersfield_03.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-.section-2{
 	background: url(http://studios.com/wp-content/uploads/csub_science_iii_building_1-702x468.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
-
-.section-3{
-	background: url(http://www.csub.edu/student_life/_images/dining_lg.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-.section-4{
-	background: url(http://static.lakana.com/nxsglobal/kerngoldenempire/photo/2017/09/13/CSU%20BAKERSFIELD%20LOGO-a_1505350593959_26347053_ver1.0_640_360.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-/*abackgroud stuff*/
+/*backgroud stuff*/
