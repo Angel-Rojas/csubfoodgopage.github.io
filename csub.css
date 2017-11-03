@@ -24,3 +24,8 @@
     margin: 0;
     padding: 0;
 }
+
+.footer {
+    background-color: grey;
+    color: white;
+    padding: 15px;
