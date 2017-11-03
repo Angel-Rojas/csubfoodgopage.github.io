@@ -1,8 +1,103 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <title>BC's FoodGo Page </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
 <body>
-<h1> WELCOME TO CSUB's FOODGO PAGE</h1>
-<p>I'm hosted with GitHub Pages.</p>
+
+<div class="jumbotron text-center">
+  <h1>Welcome to Bakersfield College's "FoodGO!" Webpage!</h1>
+  <p>Below you will find a list of our On-Campus restaraunts</p>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>. Restaraunt List .</h3>
+      <p>Panorama Grill</p>
+      <p>Main Food Court</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>. a-la carte snacks and treats .</h3>
+      <p>Frozen Burritos </p>
+      <p>Chips </p>
+      <p>Yogurt </p>
+      <p>Veggie Wraps </p>
+      <p>Vegan stuff </p>
+    </div>
+    <div class="col-sm-4">
+      <h3>. Near-By Campus options .</h3>
+      <p>Taco Bell </p>
+      <p>Taco Truck </p>
+    </div>
+  </div>
+
+  <div class="dropdown">
+      <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Select Restaraunt
+      <span class="caret"></span></button>
+      <ul class="dropdown-menu">
+        <li><a href="#">Panorama Grill</a></li>
+        <li><a href="#">Food Court </a></li>
+        <li><a href="#">a-la carte </a></li>
+      </ul>
+    </div>
+
+  <!-- Container (About Section) -->
+  <!--   <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-8">
+        <h2> </h2>
+        <h4>Lorem ipsum..</h4>
+        <p>Lorem ipsum..</p>
+        <button class="btn btn-default btn-lg">Let's Go! </button>
+      </div>
+      <div class="col-sm-4">
+        <span class="glyphicon glyphicon-apple logo"></span>
+      </div>
+    </div>
+  </div>        -->
+
+<h2>Let's get some Grub! </h2>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="https://www.cs.csub.edu/~arojas/cmps4910/images/RenegadeRoomHeader.jpg" alt="Los Angeles" style="width:100%;">
+        </div>
+
+        <div class="item">
+          <img src="https://www.cs.csub.edu/~arojas/cmps4910/images/BCFoodPic.jpg" alt="Chicago" style="width:100%;">
+        </div>
+
+        <div class="item">
+          <img src="https://www.cs.csub.edu/~arojas/cmps4910/images/BCfood2.jpg" alt="New york" style="width:100%;">
+        </div>
+      </div>
+
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
+</div>  <!--End of main Div -->
 
 </body>
 </html>
