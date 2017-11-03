@@ -11,7 +11,7 @@
   left: 50px;
 }
 
-.ul {
+.ul.sidebyside {
     list-style-type: none;
     padding: 1;
     float:left;
