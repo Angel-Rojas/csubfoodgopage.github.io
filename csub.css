@@ -6,15 +6,17 @@
 
 .header p {
   position: relative;
-  
+
   top: 18px;
   left: 50px;
 }
 
-.ul.demo {
+.ul {
     list-style-type: none;
-    margin: 1;
     padding: 1;
+    float:left;
+    margin:0 5px;
+
 }
 
 .footer {
