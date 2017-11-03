@@ -1,4 +1,4 @@
-.body {
+body {
   background-image: url("https://i.pinimg.com/736x/00/a4/fe/00a4fe9a9b6ce81568dae07bcf3141d8.jpg");
   height: 200%;
   background-position: center;
@@ -7,13 +7,13 @@
   position: relative;
 }
 
-.header img {
+header img {
   float: center;
   width: 100px;
   height: 100px;
 }
 
-.header p {
+header p {
   position: relative;
   top: 18px;
   left: 100px;
